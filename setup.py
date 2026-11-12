@@ -71,7 +71,7 @@ setup(
             "black==24.8.0",
             "flake8==7.1.1",
             "mypy==1.14.0",
-            "pylint==3.2.7",
+            "pylint==4.0.9",
             "pytest==8.3.4",
             "build==1.2.2",
             "scikit-build<1",
